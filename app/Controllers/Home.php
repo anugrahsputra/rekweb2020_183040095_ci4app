@@ -11,7 +11,7 @@ class Home extends BaseController
 
 	public function coba()
 	{
-		echo "Hello world!";
+		echo "$this->nama";
 	}
 
 	//--------------------------------------------------------------------
